@@ -5,6 +5,8 @@
         static void Main(string[] args)
         //static void Main(string[] args)
         //프로그램의 진입점 역할을 수행하는 함수입니다.
+
+         // Main() 프로젝트 내에서 단 하나만 존재해야 합니다.
         {
 
             // Console.WriteLine() : 특정한 문자열을 출력하는 함수입니다.
@@ -63,9 +65,30 @@
             // 원래 저장되어 있는 값은 새로 저장되는 값에 의해 지워집니다.
 
             #endregion
+            #region 변수의 이름 규칙
 
+            // 1. 변수의 이름은 중복이 허용되지 않습니다.
+            // ex) int data;
+            // ex) int data;
 
-            Console.WriteLine("C# 언어");
+            // 2. 변수의 이름은 대소문자를 구분합니다
+            // ex)int value;
+            // ex)int VALUE;
+
+            // 3. 변수의 이름으로 예약어를 사용할 수 없습니다.
+            // ex) int int;
+
+            // 4. 변수의 이름으로 특수 기호는 "_"만 허용합니다
+            // ex) int _table = 200;
+
+            // 5. 변수의 이름에 공백이 포함될 수 없습니다.
+            // ex) int count down = 5;
+
+            // 6. 변수의 이름은 숫자로 시작할수 없으며 컴파일하는 동안 어휘 분석에서 역 추적을 피할 수 있으므로,
+            // 시작 위치에서만 숫자를 사용할 수 없습니다.
+            // ex) int 1th;
+            // ex) int class2th;
+            #endregion
            
         }
     }
