@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            #region 상수
+        #region 상수
             // 프로그램이 싱행되는 동안 더 이상 값을
             // 변경할수 없는 메모리 공간입니다.
 
@@ -18,13 +18,13 @@
             // 하며 메모리 공간을 가지고있는 상수를 심볼릭 상수라고 합니다.
             #endregion
 
-            #region 조건문
+        #region 조건문
             //어떤 동작이 주어질때 해당 조건에 따라
             //동작을 수행하도록 실행하는 명령문입니다.
 
             #endregion
 
-            #region 관계연산자
+        #region 관계연산자
             // 두개의 피연산자의 값을 비교하여 그 결과를
             // 0 또는 1이라는 값으로 나타내는 연산자입니다.
 
@@ -46,7 +46,7 @@
             //console.writeline("sixth 변수의 값 :" + sixth);
             #endregion
 
-            #region if문
+        #region if문
             //어떤 특정한 조건을 비교하여 조건이 맞다면 실행되는
             //명령문입니다.
 
@@ -61,7 +61,7 @@
 
             #endregion
 
-            #region else if문
+        #region else if문
             //if문의 조건이 틀릴때 else if 문의 조건이 맞다면
             //실행되는 명령문입니다.
 
@@ -79,7 +79,7 @@
 
             #endregion
 
-            #region else문
+        #region else문
             //if 문과 else문의 조건이 다 틀리면
             //실행되는 명령문입니다.
 
@@ -96,7 +96,7 @@
             //가장 위에있는 조건문만 실행됩니다.
             #endregion
 
-            #region switch문
+        #region switch문
             //어떤 결과에 따라 그 결과부터
             //실행되는 명령문입니다
 
@@ -122,7 +122,8 @@
 
         #endregion
 
-            #region 비트
+
+        #region 비트
         //데이터를 나타내는 최소의 단위이며 0또는 1의 조합으로
         //논리 계산을 수행하는 단위입니다.
 
@@ -141,21 +142,23 @@
         //각각의 비트에 1이 있다면 1과 2의 제곱의 위치를 계산한
         //다음 각각의 비트를 모두 더하여 10진수로 나타낸다.
         #endregion
-           
-            #region 오버플로우
+       
+        #region 오버플로우
         //특정한 자료형아 표현할수있는 최댓값의 범위를
         //넘어서 연산을 수행하는 과정입니다.
 
         //ex) short gas = 32768;  X
 
         #endregion
-           
-            #region 언더플로우
+       
+        #region 언더플로우
         // 특정한 자료형이 표현할 수 있는 최솟값의
         // 범위를 넘어서 연산을 수행하는 과정입니다.
 
         //ex) short mineral = -32768;  X
         #endregion
+
+
             
 
 
