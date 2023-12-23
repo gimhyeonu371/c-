@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\c-\Class4th\bin\Debug\net6.0\Class4th.exe
+C:\Users\Administrator\Desktop\c-\Class4th\bin\Debug\net6.0\Class4th.deps.json
+C:\Users\Administrator\Desktop\c-\Class4th\bin\Debug\net6.0\Class4th.runtimeconfig.json
+C:\Users\Administrator\Desktop\c-\Class4th\bin\Debug\net6.0\Class4th.dll
+C:\Users\Administrator\Desktop\c-\Class4th\bin\Debug\net6.0\Class4th.pdb
+C:\Users\Administrator\Desktop\c-\Class4th\obj\Debug\net6.0\Class4th.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\c-\Class4th\obj\Debug\net6.0\Class4th.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\c-\Class4th\obj\Debug\net6.0\Class4th.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\c-\Class4th\obj\Debug\net6.0\Class4th.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\c-\Class4th\obj\Debug\net6.0\Class4th.sourcelink.json
+C:\Users\Administrator\Desktop\c-\Class4th\obj\Debug\net6.0\Class4th.dll
+C:\Users\Administrator\Desktop\c-\Class4th\obj\Debug\net6.0\refint\Class4th.dll
+C:\Users\Administrator\Desktop\c-\Class4th\obj\Debug\net6.0\Class4th.pdb
+C:\Users\Administrator\Desktop\c-\Class4th\obj\Debug\net6.0\Class4th.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\c-\Class4th\obj\Debug\net6.0\ref\Class4th.dll
