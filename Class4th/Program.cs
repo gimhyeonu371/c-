@@ -36,6 +36,8 @@ namespace Class4th
         }
         static void Main(string[] args)
         {
+            // pull Request
+    
             #region 클래스
             // 사용자 정의 데이터 유형으로 속성과 함수가
             // 포함되어 있으며 클래스를 통해
